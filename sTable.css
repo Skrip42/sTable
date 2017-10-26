@@ -1,0 +1,6 @@
+.sTable_edit>.sTable_showContent {
+    display : none;
+}
+.sTable_show>.sTable_editContent {
+    display : none;
+}
